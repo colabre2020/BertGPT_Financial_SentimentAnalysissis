@@ -4,13 +4,13 @@ This project explores how **Large Language Models (LLMs)** like **BERT** and **G
 
 ---
 
-## 📘 Abstract
+##  Abstract
 
 This research investigates the application of BERT and GPT-based models in financial sentiment classification. It compares their performance with traditional machine learning models such as Logistic Regression and SVM, using a labeled dataset of financial news headlines. The goal is to evaluate the effectiveness of modern LLMs in extracting market-relevant sentiment and discuss their potential utility in predictive stock analysis.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source:** [Kaggle - Sentiment for Financial News Dataset](https://www.kaggle.com/datasets/waseemalastal/sentiment-for-financial-news-dataset)
 - **Content:**
@@ -20,7 +20,7 @@ This research investigates the application of BERT and GPT-based models in finan
 
 ---
 
-## 🧠 Models Used
+##  Models Used
 
 ### 1. BERT (Bidirectional Encoder Representations from Transformers)
 - Model: `bert-base-uncased`
@@ -38,7 +38,7 @@ This research investigates the application of BERT and GPT-based models in finan
 
 ---
 
-## ⚙️ Preprocessing
+##  Preprocessing
 
 - Null value removal
 - Lowercasing, punctuation stripping
@@ -47,7 +47,7 @@ This research investigates the application of BERT and GPT-based models in finan
 
 ---
 
-## 📊 Results
+## Results
 
 | Model                | Accuracy | F1-Score |
 |---------------------|----------|----------|
@@ -60,7 +60,7 @@ BERT outperforms the other models due to its robust context understanding. GPT-2
 
 ---
 
-## 📈 Visualizations
+## Visualizations
 
 - Sentiment class distributions
 - Confusion matrices for all models
