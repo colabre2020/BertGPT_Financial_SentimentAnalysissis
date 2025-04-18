@@ -70,5 +70,18 @@ Plots are located in the `images/` directory.
 
 ---
 
-## 📁 Repository Structure
+## References
+
+- Hugging Face GPT-2 Documentation: [Link](https://huggingface.co/docs/transformers/en/model_doc/gpt2)
+- TensorFlow BERT Tutorial: [Link](https://www.tensorflow.org/text/tutorials/classify_text_with_bert)
+- BERT Wikipedia: [Link](https://en.wikipedia.org/wiki/BERT_(language_model))
+- Kaggle Dataset: [Link](https://www.kaggle.com/datasets/waseemalastal/sentiment-for-financial-news-dataset)
+
+---
+
+## How to Run
+
+1. Clone this repo:
+   git clone https://github.com/yourusername/financial-sentiment-llms.git
+   cd financial-sentiment-llms
 
