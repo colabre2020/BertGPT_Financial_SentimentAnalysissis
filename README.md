@@ -1,4 +1,4 @@
-# 🔍 Unlocking the Market: Harnessing Large Language Models for Predicting Stock Movements through Sentiment Analysis
+# Unlocking the Market: Harnessing Large Language Models for Predicting Stock Movements through Sentiment Analysis
 
 This project explores how **Large Language Models (LLMs)** like **BERT** and **GPT-2** can be used for sentiment analysis on financial news headlines, and how this sentiment can be correlated to predict stock price movements.
 
